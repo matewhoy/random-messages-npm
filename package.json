@@ -14,7 +14,15 @@
   "author": "Mateo Hoya <matewhoy27@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "../bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matewhoy/random-messages-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matewhoy/random-messages-npm/issues"
+  },
+  "homepage": "https://github.com/matewhoy/random-messages-npm#readme"
 }
